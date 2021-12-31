@@ -20,11 +20,12 @@ const Contato = () => {
           <Link href= 'https://wa.me/+5521972300670'>
           <a target="_blank"><img className='mx-auto p-0 w-12 h-12' src='/zap.png' /></a>
           </Link>
-          </div>
+          
       <div>
         <Link href='/'>
           <a className= 'font-bold m-4'>Home</a>
         </Link>
+      </div>
       </div>
     </div>
   )
