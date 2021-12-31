@@ -9,5 +9,9 @@ module.exports = {
     defaultLineHeights: true,
     standardFontWeights: true
   },
-  plugins: [],
+  purge: {
+    layers: ['utilities'],
+  },
+  
+  plugins: []
 }
