@@ -23,7 +23,7 @@ const Contato = () => {
           </div>
       <div>
         <Link href='/'>
-          <p className= 'font-bold m-4'>Home</p>
+          <a className= 'font-bold m-4'>Home</a>
         </Link>
       </div>
     </div>
