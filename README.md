@@ -42,7 +42,7 @@ rapidly building custom designs.
 
 ## Autor || Author
 
-* **Rogério Gomes** - [LinkedIn](https://www.linkedin.com/in/rogério-gomes-20024534)
+* **Rogério Gomes** - [LinkedIn](https://www.linkedin.com/in/rogeriogomes2009)
 
 
 ## Licença || License
